@@ -39,7 +39,7 @@ The goal of this project is to analyze layoff data to answer key business questi
   - **Layoffs by Year**: Time-series chart to show trends over time.
   - **Global Impact**: Map visualization highlighting the most affected countries.
 
----
+
 
 ## 📊 Dashboard Preview
 
@@ -48,7 +48,7 @@ You can interact with the full dashboard on **Tableau Public**:
 
 The interactive Tableau visualization can help stakeholders quickly understand key trends and patterns.
 
----
+
 
 ## 🛠️ How to Reproduce
 
