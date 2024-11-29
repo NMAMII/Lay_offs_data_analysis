@@ -73,7 +73,7 @@ Layoffs peaked in 2022, with significant declines in subsequent years.
 Companies in the startup and technology sectors were among the hardest hit.
 
 ## 📎 Files in the Repository
-- data_cleaning.sql: SQL script for data cleaning and transformation.
-- eda.sql: SQL script for exploratory data analysis.
-- layoffs_dashboard.twbx: Tableau dashboard file for visualization.
+- Data Cleaning.sql: SQL script for data cleaning and transformation.
+- EDA.sql: SQL script for exploratory data analysis.
+- data visualization.twb: Tableau dashboard file for visualization.
 - cleaned dataset.csv: The dataset after the cleaning.
